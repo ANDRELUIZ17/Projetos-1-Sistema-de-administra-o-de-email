@@ -1,0 +1,6 @@
+Primeiro nome: as
+Sobrenome: silva
+Email: as.s@vendas.company.com
+Senha: !osYNxhz
+Capacidade: 500
+Email alternativo: null
